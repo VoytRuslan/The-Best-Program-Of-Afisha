@@ -267,7 +267,7 @@ class Application(tk.Frame):
 def main():
     
     app_win = tk.Tk()
-    app_win.iconbitmap(r'C:\Users\Sasha\Desktop\hak\icona.ico')
+    app_win.iconbitmap(r'icona.ico')
     '''
     def start():
             app = Application(app_win)
